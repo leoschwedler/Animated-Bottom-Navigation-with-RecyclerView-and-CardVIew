@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tabGridH"
+        android:icon="@drawable/icon_tab"
+        android:title="GridHorizontal" />
+    <item
+        android:id="@+id/tabGridV"
+        android:icon="@drawable/icon_tab"
+        android:title="GridVertical" />
+    <item
+        android:id="@+id/tabLinearH"
+        android:icon="@drawable/icon_tab"
+        android:title="LinearHorizontal" />
+    <item
+        android:id="@+id/tabLinearV"
+        android:icon="@drawable/icon_tab"
+        android:title="LinearVertical" />
+</menu>
